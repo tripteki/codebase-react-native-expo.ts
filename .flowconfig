@@ -1,0 +1,2 @@
+[options]
+module.file_ext=.js .native.js .android.js .ios.js
